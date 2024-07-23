@@ -2021,6 +2021,10 @@ input[type=radio] + label:before {
 .image.main img {
   width: 100%;
 }
+.image.main video {
+  display: block;
+  width: 100%;
+}
 .image.main:first-child {
   margin-top: 0;
 }
